@@ -1,14 +1,18 @@
 央视,#genre#
 CCTV1,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV1,http://182.151.234.91:9900/udp/239.93.0.184:5140
 CCTV2,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV2.http://182.151.234.91:9900/udp/239.93.1.23:6000
 CCTV3,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv3.m3u8
 CCTV4,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv4.m3u8
 CCTV5,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5.http://182.151.234.91:9900/udp/239.93.42.37:5140
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5,http://61.182.33.218:8000/hls/5/index.m3u8
 CCTV5+,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV5+,http://182.151.234.91:9900/udp/239.93.1.36:8004
 CCTV6,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv6.m3u8
 CCTV7,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv7.m3u8
 CCTV8,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv8.m3u8
@@ -21,6 +25,8 @@ CCTV14,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv15.m3u8
 CCTV16,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CGTN,http://182.151.234.91:9900/udp/239.93.0.104:5140
+湖南卫视,http://182.151.234.91:9900/udp/239.93.0.88:5140
 
 国际,#genre#
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
@@ -49,6 +55,7 @@ TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+星空,http://182.151.234.91:9900/udp/239.93.1.10:2193
 
 日本,#genre#
 テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -56,3 +63,7 @@ BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=
 
 台灣,#genre#
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+
+韩国,#genre#
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
