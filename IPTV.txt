@@ -30,7 +30,14 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 France24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 EURONEWS,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+EURONEWS,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+EURO NEWS,http://abcnew.site:8880/3ca7123n11/ewfr543ds/28885
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+RT_NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+BBC NEWS,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
+iTV NEWS,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 
 
 香港,#genre#
