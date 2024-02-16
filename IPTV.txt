@@ -23,3 +23,12 @@ CNN,http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=1
 France24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 EURONEWS,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+
+
+香港,#genre#
+无线财经体育资讯台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
