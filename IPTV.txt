@@ -33,7 +33,7 @@ CCTV17,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 CGTN,http://182.151.234.91:9900/udp/239.93.0.104:5140
 世界地理.http://49.83.251.217:4022/rtp/239.49.1.63:6000
 
-Sport
+Sport,#genre#
 风云足球高清,http://49.83.251.217:4022/rtp/239.49.9.6:6000
 CCTV5,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv5.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
