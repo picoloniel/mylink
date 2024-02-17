@@ -85,6 +85,8 @@ France24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 EURONEWS,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 EURONEWS,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
 EURO NEWS,https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+EURO NEWS,https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+EURO NEWS,https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 RT_NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
