@@ -54,6 +54,12 @@ CCTV5+,http://49.83.251.217:4022/rtp/239.49.8.137:6000
 广东体育超清,http://113.65.8.165:8000/udp/239.77.0.168:5146
 广东体育超清,http://116.20.33.46:4321/udp/239.77.0.112:5146
 爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
+博斯運動2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+Dubai Sport3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+Dubai Sport2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+
+
 
 其他,#genre#
 湖南卫视,http://182.151.234.91:9900/udp/239.93.0.88:5140
@@ -61,9 +67,11 @@ CCTV5+,http://49.83.251.217:4022/rtp/239.49.8.137:6000
 IPTV,http://1.198.26.166:808/hls/75/index.m3u8
 美国大片,http://1.198.26.166:808/hls/68/index.m3u8
 
+
 地方
 江苏综艺高清,http://49.83.251.217:4022/rtp/239.49.9.36:6000
 江苏体育高清,http://49.83.251.217:4022/rtp/239.49.9.37:6000
+珠江台,http://222.84.193.238:8181/tsfile/live/1015_1.m3u8
 
 国际,#genre#
 CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
@@ -86,8 +94,8 @@ iTV NEWS,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A311634583116
 
 香港,#genre#
 无线财经体育资讯台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
+无线财经体育资讯台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
-TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
 TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
