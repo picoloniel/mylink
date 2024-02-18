@@ -53,7 +53,6 @@ CCTV5+,http://49.83.251.217:4022/rtp/239.49.8.137:6000
 咪咕体育-4K,http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
 广东体育超清,http://113.65.8.165:8000/udp/239.77.0.168:5146
 广东体育超清,http://116.20.33.46:4321/udp/239.77.0.112:5146
-爱体育,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
 博斯運動2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 Dubai Sport3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
@@ -66,7 +65,11 @@ Dubai Sport2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisports
 新闻频道,http://1.198.26.166:808/hls/22/index.m3u8
 IPTV,http://1.198.26.166:808/hls/75/index.m3u8
 美国大片,http://1.198.26.166:808/hls/68/index.m3u8
-
+HBO,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO Hits,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+Dubai1,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 
 地方,#genre#
 江苏综艺高清,http://49.83.251.217:4022/rtp/239.49.9.36:6000
@@ -91,13 +94,13 @@ FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 RT_NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
 Sky News,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+BBC NEWS,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 BBC NEWS,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45331
 BBC NEWS,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3u8
-BBC NEWS,http://198.16.100.90:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 iTV NEWS,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 CBS NEWS,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-Dubai1,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
+TBS,http://38.96.178.201:80/live/TBS/index.m3u8
 
 香港,#genre#
 无线财经体育资讯台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
@@ -113,6 +116,8 @@ TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 日本,#genre#
 テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NEWS24,http://49.235.110.121:9090/898/peda/twjd.php?id=36
 
 台灣,#genre#
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
@@ -120,3 +125,5 @@ BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=
 韩国,#genre#
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
+SBS 런닝맨,https://d3ctbhz5tcf42v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7g3mhwldqil59-prod/hls-harvester2-1293-prod/us-east-1/cc-7g3mhwldqil59/master.m3u8?
