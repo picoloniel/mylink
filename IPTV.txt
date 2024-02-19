@@ -87,7 +87,7 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNN,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 France24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-EURONEWS,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8#https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8#https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8#https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+EURONEWS,https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8#https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8#https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8#https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8#https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 RT_NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 Sky News,http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
