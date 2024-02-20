@@ -22,8 +22,8 @@ CCTV5,http://49.83.251.217:4022/rtp/239.49.1.5:6000
 CCTV6,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv6.m3u8
 CCTV7,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv7.m3u8
 CCTV8,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-CCTV9,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-CCTV10,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV9,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv9.m3u8#http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv9.m3u8#http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv10.m3u8#http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv10.m3u8#http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
 CCTV11,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv11.m3u8
 CCTV12,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv12.m3u8
 CCTV13,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv13.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688#http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv13.m3u8#http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
