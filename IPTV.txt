@@ -22,6 +22,24 @@ CCTV17,http://36.156.208.56/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 央视台球高清,http://49.83.251.217:4022/rtp/239.49.9.22:6000
 CGTN,http://182.151.234.91:9900/udp/239.93.0.104:5140
 世界地理,http://49.83.251.217:4022/rtp/239.49.1.63:6000
+CCTV1综合,http://aiyun.work.gd/jd.php?id=CCTV1综合
+CCTV2财经,http://aiyun.work.gd/jd.php?id=CCTV2财经
+CCTV3综艺,http://aiyun.work.gd/jd.php?id=CCTV3综艺
+CCTV4中文国际,http://aiyun.work.gd/jd.php?id=CCTV4中文国际
+CCTV5体育,http://aiyun.work.gd/jd.php?id=CCTV5体育
+CCTV6电影,http://aiyun.work.gd/jd.php?id=CCTV6电影
+CCTV7国防军事,http://aiyun.work.gd/jd.php?id=CCTV7国防军事
+CCTV8电视剧,http://aiyun.work.gd/jd.php?id=CCTV8电视剧
+CCTV9纪录,http://aiyun.work.gd/jd.php?id=CCTV9纪录
+CCTV10科教,http://aiyun.work.gd/jd.php?id=CCTV10科教
+CCTV11戏曲,http://aiyun.work.gd/jd.php?id=CCTV11戏曲
+CCTV12社会与法,http://aiyun.work.gd/jd.php?id=CCTV12社会与法
+CCTV13新闻,http://aiyun.work.gd/jd.php?id=CCTV13新闻
+CCTV14少儿,http://aiyun.work.gd/jd.php?id=CCTV14少儿
+CCTV15音乐,http://aiyun.work.gd/jd.php?id=CCTV15音乐
+CCTV16奥林匹克,http://aiyun.work.gd/jd.php?id=CCTV16奥林匹克
+CCTV17农业农村,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
+CCTV5P,http://aiyun.work.gd/jd.php?id=CCTV5P
 
 Sport,#genre#
 风云足球高清,http://49.83.251.217:4022/rtp/239.49.9.6:6000
