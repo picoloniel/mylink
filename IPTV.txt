@@ -126,7 +126,7 @@ NEWS24,http://49.235.110.121:9090/898/peda/twjd.php?id=36
 
 台灣,#genre#
 中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來日本,rtmp://f13h.mine.nu/sat/tv771#http://zqjy.info/tv/NjkyNTQx
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 華視,rtmp://f13h.mine.nu/sat/tv111
