@@ -36,6 +36,36 @@ CCTV15,http://aiyun.work.gd/jd.php?id=CCTV15音乐
 CCTV16,http://aiyun.work.gd/jd.php?id=CCTV16奥林匹克
 CCTV17,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
 CCTV5+,http://aiyun.work.gd/jd.php?id=CCTV5P
+CCTV1,http://1.70.33.41:8082/udp/239.1.1.7:8007
+CCTV2,http://1.70.33.41:8082/udp/239.1.1.8:8008
+CCTV3,http://1.70.33.41:8082/udp/239.1.1.9:8009
+CCTV4,http://1.70.33.41:8082/udp/239.1.1.10:8010
+CCTV5,http://1.70.33.41:8082/udp/239.1.1.11:8011
+CCTV6,http://1.70.33.41:8082/udp/239.1.1.13:8013
+CCTV7,http://1.70.33.41:8082/udp/239.1.1.14:8014
+CCTV8,http://1.70.33.41:8082/udp/239.1.1.15:8015
+CCTV9,http://1.70.33.41:8082/udp/239.1.1.16:8016
+CCTV10,http://1.70.33.41:8082/udp/239.1.1.17:8017
+CCTV11,http://1.70.33.41:8082/udp/239.1.1.18:8018
+CCTV12,http://1.70.33.41:8082/udp/239.1.1.19:8019
+CCTV13,http://1.70.33.41:8082/udp/239.1.1.20:8020
+CCTV14,http://1.70.33.41:8082/udp/239.1.1.21:8021
+CCTV15,http://1.70.33.41:8082/udp/239.1.1.22:8022
+CCTV16,http://1.70.33.41:8082/udp/239.1.1.122:8122
+CCTV17,http://1.70.33.41:8082/udp/239.1.1.23:8023
+CCTV5+,http://1.70.33.41:8082/udp/239.1.1.12:8012
+CCTV女性时尚高清,http://1.70.33.41:8082/udp/239.1.1.89:8089
+CCTV电视指南高清,http://1.70.33.41:8082/udp/239.1.1.90:8090
+CCTV央视文化精品高清,http://1.70.33.41:8082/udp/239.1.1.91:8091
+CCTV风云剧场高清,http://1.70.33.41:8082/udp/239.1.1.93:8093
+CCTV第一剧场高清,http://1.70.33.41:8082/udp/239.1.1.94:8094
+CCTV怀旧剧场高请,http://1.70.33.41:8082/udp/239.1.1.95:8095
+CCTV风云音乐高请,http://1.70.33.41:8082/udp/239.1.1.96:8096
+CCTV兵器科技高清,http://1.70.33.41:8082/udp/239.1.1.97:8097
+CCTV世界地理高清,http://1.70.33.41:8082/udp/239.1.1.99:8099
+CCTV央视台球高清,http://1.70.33.41:8082/udp/239.1.1.100:8100
+CCTV风云足球高清,http://1.70.33.41:8082/udp/239.1.1.101:8101
+CCTV高尔夫网球高清,http://1.70.33.41:8082/udp/239.1.1.102:8102
 
 Sport,#genre#
 风云足球高清,http://49.83.251.217:4022/rtp/239.49.9.6:6000
@@ -61,7 +91,7 @@ CCTV5+,http://49.83.251.217:4022/rtp/239.49.8.137:6000#http://aiyun.work.gd/jd.p
 博斯運動2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 Dubai Sport3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 Dubai Sport2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-
+车迷频道,http://1.70.33.41:8082/udp/239.1.1.109:8109
 
 
 其他,#genre#
