@@ -101,8 +101,10 @@ IPTV,http://1.198.26.166:808/hls/75/index.m3u8
 美国大片,http://1.198.26.166:808/hls/68/index.m3u8
 HBO,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO Family,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 HBO Hits,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93#http://zqjy.info/tv/Njc4NTg4
+HBO Hits,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 Animal Planet,http://zqjy.info/tv/Njc4OTA5
 Dubai1,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione/chunklist_b180000.m3u8
 
@@ -196,7 +198,10 @@ TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018
 TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
 TVB翡翠台,http://zqjy.info/tv/NzEyMzM4?channel=TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+TVB新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 J2,https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv#http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8#http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
 娱乐台，https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 星空,http://182.151.234.91:9900/udp/239.93.1.10:2193
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
