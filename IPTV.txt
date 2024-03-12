@@ -66,6 +66,26 @@ CCTV世界地理高清,http://1.70.33.41:8082/udp/239.1.1.99:8099
 CCTV央视台球高清,http://1.70.33.41:8082/udp/239.1.1.100:8100
 CCTV风云足球高清,http://1.70.33.41:8082/udp/239.1.1.101:8101
 CCTV高尔夫网球高清,http://1.70.33.41:8082/udp/239.1.1.102:8102
+CCTV1,https://tv.cctv.com/live/cctv1
+CCTV2,https://tv.cctv.com/live/cctv2
+CCTV3,https://tv.cctv.com/live/cctv3
+CCTV4,https://tv.cctv.com/live/cctv4
+CCTV5,https://tv.cctv.com/live/cctv5
+CCTV5+,https://tv.cctv.com/live/cctv5plus
+CCTV6,https://tv.cctv.com/live/cctv6
+CCTV7,https://tv.cctv.com/live/cctv7
+CCTV8,https://tv.cctv.com/live/cctv8
+CCTV9,https://tv.cctv.com/live/cctvjilu
+CCTV10,https://tv.cctv.com/live/cctv10
+CCTV11,https://tv.cctv.com/live/cctv11
+CCTV12,https://tv.cctv.com/live/cctv12
+CCTV13,https://tv.cctv.com/live/cctv13
+CCTV14,https://tv.cctv.com/live/cctvchild
+CCTV15,https://tv.cctv.com/live/cctv15
+CCTV16,https://tv.cctv.com/live/cctv16
+CCTV17,https://tv.cctv.com/live/cctv17
+CCTV4中文國際歐洲,https://tv.cctv.com/live/cctveurope
+CCTV4中文國際美洲,https://tv.cctv.com/live/cctvamerica
 
 Sport,#genre#
 风云足球高清,http://49.83.251.217:4022/rtp/239.49.9.6:6000
