@@ -2,6 +2,7 @@
 CCTV1,http://aiyun.work.gd/jd.php?id=CCTV1综合
 CCTV1,http://182.151.234.91:9900/udp/239.93.0.184:5140
 CCTV2.http://182.151.234.91:9900/udp/239.93.1.23:6000
+CCTV5,http://110.72.64.160:808/hls/38/index.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5,http://182.151.234.91:9900/udp/239.93.42.37:5140
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
@@ -54,6 +55,7 @@ CCTV15,http://1.70.33.41:8082/udp/239.1.1.22:8022
 CCTV16,http://1.70.33.41:8082/udp/239.1.1.122:8122
 CCTV17,http://1.70.33.41:8082/udp/239.1.1.23:8023
 CCTV5+,http://1.70.33.41:8082/udp/239.1.1.12:8012
+CCTV5+,http://110.72.64.160:808/hls/14/index.m3u8
 CCTV女性时尚高清,http://1.70.33.41:8082/udp/239.1.1.89:8089
 CCTV电视指南高清,http://1.70.33.41:8082/udp/239.1.1.90:8090
 CCTV央视文化精品高清,http://1.70.33.41:8082/udp/239.1.1.91:8091
@@ -91,6 +93,7 @@ Sport,#genre#
 风云足球高清,http://49.83.251.217:4022/rtp/239.49.9.6:6000
 广东体育超清,http://113.65.8.165:8000/udp/239.77.0.168:5146#http://91tv.x3322.net:9921/tsfile/live/1014_1.m3u8
 广东体育超清,http://116.20.33.46:4321/udp/239.77.0.112:5146
+广东体育超清,http://110.72.64.160:808/hls/13/index.m3u8
 博斯魅力,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MCEC3596356835963568&ct=19234&tsum=b4f0f6248548de66e4ff5d230c130d1a
 博斯運動2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 Dubai Sport3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
@@ -100,6 +103,7 @@ Dubai Sport2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisports
 
 其他,#genre#
 湖南卫视,http://182.151.234.91:9900/udp/239.93.0.88:5140
+珠江台,http://110.72.64.160:808/hls/24/index.m3u8
 新闻频道,http://1.198.26.166:808/hls/22/index.m3u8
 IPTV,http://1.198.26.166:808/hls/75/index.m3u8
 美国大片,http://1.198.26.166:808/hls/68/index.m3u8
@@ -142,6 +146,7 @@ TBS,http://38.96.178.201:80/live/TBS/index.m3u8
 香港,#genre#
 无线财经体育资讯台,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB翡翠台,http://110.72.64.160:808/hls/57/index.m3u8
 TVB翡翠台,,https://edge6a.v2h-cdn.com/jade/jade.stream/playlist.m3u8
 TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8#http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
@@ -152,6 +157,7 @@ TVB新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F878410898
 TVB新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
 J2,https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv#http://91tv.x3322.net:9921/tsfile/live/1006_1.m3u8#http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e
+J2,http://110.72.64.160:808/hls/58/index.m3u8
 娱乐台，https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 星空,http://182.151.234.91:9900/udp/239.93.1.10:2193
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
