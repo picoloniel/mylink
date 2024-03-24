@@ -16,7 +16,7 @@ CCTV14,http://219.156.118.134:808/hls/14/index.m3u21
 CCTV15,http://219.156.118.134:808/hls/15/index.m3u22
 CCTV5+,http://219.156.118.134:808/hls/75/index.m3u8
 
-CCTV Hotel2,,#genre#
+CCTV Hotel2,#genre#
 CCTV-1	,http://110.72.75.180:808/hls/54/index.m3u8
 	
 CCTV-2	,http://110.72.75.180:808/hls/97/index.m3u8
