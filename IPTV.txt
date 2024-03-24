@@ -102,22 +102,6 @@ CCTV-15	,http://110.72.84.220:808/hls/102/index.m3u8
 	
 测试-TVBJ	,http://110.72.84.220:808/hls/58/index.m3u8
 
-
-先锋乒羽,#genre#
-先锋乒羽1,http://36.129.204.120:880/dx102.m3u8
-先锋乒羽1,http://222.217.246.54:8282/tsfile/live/1064_1.m3u8
-先锋乒羽1,https://tv.smart-chat.net/iptv.php?id=404400&num=1
-先锋乒羽1,https://tv.smart-chat.net/iptv.php?id=404400&num=2
-先锋乒羽1,https://tv.smart-chat.net/iptv.php?id=404400&num=3
-先锋乒羽1,http://gxdl-lhs.8866.org:85/tsfile/live/1064_1.m3u8?key=txiptv&playlive=0&authid=0
-先锋乒羽1,http://49.235.110.121:9090/daili/小果.php?id=xfpy_4000&Cf.m3u8
-先锋乒羽1,http://39.165.35.152:9901/tsfile/live/1173_1.m3u8?key=txiptv
-先锋乒羽1,http://angtv.cc/jd/gdlz.php?id=xfpy
-先锋乒羽1,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=pingyu_1500&/PLTV/hls.smil.m3u8
-先锋乒羽1,https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=xianfeng
-先锋乒羽1,http://113.117.74.28:8081/hls/113/index.m3u8
-
-
 央视,#genre#
 CCTV1,http://aiyun.work.gd/jd.php?id=CCTV1综合
 CCTV1,http://182.151.234.91:9900/udp/239.93.0.184:5140
