@@ -16,20 +16,6 @@ CCTV14,http://219.156.118.134:808/hls/14/index.m3u21
 CCTV15,http://219.156.118.134:808/hls/15/index.m3u22
 CCTV5+,http://219.156.118.134:808/hls/75/index.m3u8
 
-CCTV hotel2,,#genre#
-CCTV-1	,http://110.72.75.180:808/hls/54/index.m3u8			
-CCTV-2	,http://110.72.75.180:808/hls/97/index.m3u8			
-CCTV-3	,http://110.72.75.180:808/hls/37/index.m3u8			
-CCTV-4	,http://110.72.75.180:808/hls/113/index.m3u8			
-CCTV-5	,http://110.72.75.180:808/hls/38/index.m3u8			
-CCTV-6	,http://110.72.75.180:808/hls/39/index.m3u8			
-CCTV-7	,http://110.72.75.180:808/hls/98/index.m3u8			
-CCTV-8	,http://110.72.75.180:808/hls/40/index.m3u8			
-CCTV-9	,http://110.72.75.180:808/hls/119/index.m3u8			
-CCTV-10	,http://110.72.75.180:808/hls/99/index.m3u8			
-CCTV-11	,http://110.72.75.180:808/hls/100/index.m3u8			
-CCTV-12	,http://110.72.75.180:808/hls/101/index.m3u8	
-
 CCTV Hotel2,,#genre#
 CCTV-1	,http://110.72.75.180:808/hls/54/index.m3u8
 	
