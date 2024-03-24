@@ -124,43 +124,6 @@ CCTV13,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv13.m3u8
 央视台球高清,http://49.83.251.217:4022/rtp/239.49.9.22:6000
 CGTN,http://182.151.234.91:9900/udp/239.93.0.104:5140
 世界地理,http://49.83.251.217:4022/rtp/239.49.1.63:6000
-CCTV1,http://aiyun.work.gd/jd.php?id=CCTV1综合
-CCTV2,http://aiyun.work.gd/jd.php?id=CCTV2财经
-CCTV3,http://aiyun.work.gd/jd.php?id=CCTV3综艺
-CCTV4,http://aiyun.work.gd/jd.php?id=CCTV4中文国际
-CCTV5,http://aiyun.work.gd/jd.php?id=CCTV5体育
-CCTV6,http://aiyun.work.gd/jd.php?id=CCTV6电影
-CCTV7,http://aiyun.work.gd/jd.php?id=CCTV7国防军事
-CCTV8,http://aiyun.work.gd/jd.php?id=CCTV8电视剧
-CCTV9,http://aiyun.work.gd/jd.php?id=CCTV9纪录
-CCTV10,http://aiyun.work.gd/jd.php?id=CCTV10科教
-CCTV11,http://aiyun.work.gd/jd.php?id=CCTV11戏曲
-CCTV12,http://aiyun.work.gd/jd.php?id=CCTV12社会与法
-CCTV13,http://aiyun.work.gd/jd.php?id=CCTV13新闻
-CCTV14,http://aiyun.work.gd/jd.php?id=CCTV14少儿
-CCTV15,http://aiyun.work.gd/jd.php?id=CCTV15音乐
-CCTV16,http://aiyun.work.gd/jd.php?id=CCTV16奥林匹克
-CCTV17,http://aiyun.work.gd/jd.php?id=CCTV17农业农村
-CCTV5+,http://aiyun.work.gd/jd.php?id=CCTV5P
-CCTV1,http://1.70.33.41:8082/udp/239.1.1.7:8007
-CCTV2,http://1.70.33.41:8082/udp/239.1.1.8:8008
-CCTV3,http://1.70.33.41:8082/udp/239.1.1.9:8009
-CCTV4,http://1.70.33.41:8082/udp/239.1.1.10:8010
-CCTV5,http://1.70.33.41:8082/udp/239.1.1.11:8011
-CCTV6,http://1.70.33.41:8082/udp/239.1.1.13:8013
-CCTV7,http://1.70.33.41:8082/udp/239.1.1.14:8014
-CCTV8,http://1.70.33.41:8082/udp/239.1.1.15:8015
-CCTV9,http://1.70.33.41:8082/udp/239.1.1.16:8016
-CCTV10,http://1.70.33.41:8082/udp/239.1.1.17:8017
-CCTV11,http://1.70.33.41:8082/udp/239.1.1.18:8018
-CCTV12,http://1.70.33.41:8082/udp/239.1.1.19:8019
-CCTV13,http://1.70.33.41:8082/udp/239.1.1.20:8020
-CCTV14,http://1.70.33.41:8082/udp/239.1.1.21:8021
-CCTV15,http://1.70.33.41:8082/udp/239.1.1.22:8022
-CCTV16,http://1.70.33.41:8082/udp/239.1.1.122:8122
-CCTV17,http://1.70.33.41:8082/udp/239.1.1.23:8023
-CCTV5+,http://1.70.33.41:8082/udp/239.1.1.12:8012
-CCTV5+,http://110.72.64.160:808/hls/14/index.m3u8
 CCTV女性时尚高清,http://1.70.33.41:8082/udp/239.1.1.89:8089
 CCTV电视指南高清,http://1.70.33.41:8082/udp/239.1.1.90:8090
 CCTV央视文化精品高清,http://1.70.33.41:8082/udp/239.1.1.91:8091
@@ -207,10 +170,6 @@ Dubai Sport2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisports
 
 
 其他,#genre#
-湖南卫视,http://182.151.234.91:9900/udp/239.93.0.88:5140
-珠江台,http://110.72.64.160:808/hls/24/index.m3u8
-新闻频道,http://1.198.26.166:808/hls/22/index.m3u8
-IPTV,http://1.198.26.166:808/hls/75/index.m3u8
 美国大片,http://1.198.26.166:808/hls/68/index.m3u8
 HBO,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 HBO Family,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
@@ -228,9 +187,12 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNN,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 France24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
-EURONEWS,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176820
+France24,http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=static.france24.com/live/F24_EN_LO_HLS/live_web&checkedby:iptvcat.com
+France24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+EURONEWS,https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
 EURONEWS,https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 EURONEWS,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+EURONEWS,http://abcnew.site:8880/3ca7123n11/ewfr543ds/28885
 EURONEWS,https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
 FOX NEWS,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8#https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 RT_NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -242,9 +204,6 @@ BBC NEWS,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3
 iTV NEWS,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 iTV1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
 CBS NEWS,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-iTV2,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30532
-iTV3,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30531
-iTV4,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=30530
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
 TBS,http://38.96.178.201:80/live/TBS/index.m3u8
 
