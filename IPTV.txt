@@ -1,19 +1,19 @@
 CCTV hotel1,#genre#
-CCTV1	,http://219.156.118.134:808/hls/1/index.m3u8
-CCTV2	,http://219.156.118.134:808/hls/2/index.m3u9
-CCTV3	,http://219.156.118.134:808/hls/3/index.m3u10
-CCTV4	,http://219.156.118.134:808/hls/4/index.m3u11
-CCTV5	,http://219.156.118.134:808/hls/5/index.m3u12
-CCTV6	,http://219.156.118.134:808/hls/6/index.m3u13
-CCTV7	,http://219.156.118.134:808/hls/7/index.m3u14
-CCTV8	,http://219.156.118.134:808/hls/8/index.m3u15
-CCTV9	,http://219.156.118.134:808/hls/9/index.m3u16
-CCTV10,http://219.156.118.134:808/hls/10/index.m3u17
-CCTV11,http://219.156.118.134:808/hls/11/index.m3u18
-CCTV12,http://219.156.118.134:808/hls/12/index.m3u19
-CCTV13,http://219.156.118.134:808/hls/13/index.m3u20
-CCTV14,http://219.156.118.134:808/hls/14/index.m3u21
-CCTV15,http://219.156.118.134:808/hls/15/index.m3u22
+CCTV1	,http://219.156.118.134:808/hls/1/index.m3u8		
+CCTV2	,http://219.156.118.134:808/hls/2/index.m3u8		
+CCTV3	,http://219.156.118.134:808/hls/3/index.m3u8		
+CCTV4	,http://219.156.118.134:808/hls/4/index.m3u8		
+CCTV5	,http://219.156.118.134:808/hls/5/index.m3u8		
+CCTV6	,http://219.156.118.134:808/hls/6/index.m3u8		
+CCTV7	,http://219.156.118.134:808/hls/7/index.m3u8		
+CCTV8	,http://219.156.118.134:808/hls/8/index.m3u8		
+CCTV9	,http://219.156.118.134:808/hls/9/index.m3u8		
+CCTV10	,http://219.156.118.134:808/hls/10/index.m3u8		
+CCTV11	,http://219.156.118.134:808/hls/11/index.m3u8		
+CCTV12	,http://219.156.118.134:808/hls/12/index.m3u8		
+CCTV13	,http://219.156.118.134:808/hls/13/index.m3u8		
+CCTV14	,http://219.156.118.134:808/hls/14/index.m3u8		
+CCTV15	,http://219.156.118.134:808/hls/15/index.m3u8		
 CCTV5+,http://219.156.118.134:808/hls/75/index.m3u8
 
 CCTV Hotel2,#genre#
