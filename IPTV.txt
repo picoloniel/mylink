@@ -204,6 +204,7 @@ BBC NEWS,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/19176/index.m3
 BBC NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 iTV NEWS,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MA7A3116345831163458&ct=19254&tsum=fe64dc99ba95f220bea2a2a29319b065
 iTV1,http://198.16.100.90:8278/itv1_antik/playlist.m3u8?tid=MD2D6334659563346595&ct=19226&tsum=79815878394f0f1cd30a6f043febfbb8
+iTV2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=MFFF6920712969207129&ct=19226&tsum=8d0ef3e278e5c4010cec6570464fa2ea
 CBS NEWS,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 俄罗斯GITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?zshijd
 TBS,http://38.96.178.201:80/live/TBS/index.m3u8
