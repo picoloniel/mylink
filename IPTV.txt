@@ -62,39 +62,43 @@ CCTV-15高清	,http://113.110.72.121:808/hls/127/index.m3u8
 
 
 CCTV Hotel3,#genre#
-CCTV-1	,http://110.72.84.220:808/hls/54/index.m3u8
+CCTV-1	,http://61.52.156.33:808/hls/1/index.m3u8
 	
-CCTV-2	,http://110.72.84.220:808/hls/97/index.m3u8
+CCTV-2	,http://61.52.156.33:808/hls/2/index.m3u8
 	
-CCTV-3	,http://110.72.84.220:808/hls/37/index.m3u8
+CCTV-3	,http://61.52.156.33:808/hls/3/index.m3u8
 	
-CCTV-4	,http://110.72.84.220:808/hls/113/index.m3u8
+CCTV-4	,http://61.52.156.33:808/hls/4/index.m3u8
 	
-CCTV-5	,http://110.72.84.220:808/hls/38/index.m3u8
+CCTV-5	,http://61.52.156.33:808/hls/5/index.m3u8
 	
-CCTV-6	,http://110.72.84.220:808/hls/39/index.m3u8
+CCTV-6	,http://61.52.156.33:808/hls/6/index.m3u8
 	
-CCTV-7	,http://110.72.84.220:808/hls/98/index.m3u8
+CCTV-7	,http://61.52.156.33:808/hls/7/index.m3u8
 	
-CCTV-8	,http://110.72.84.220:808/hls/40/index.m3u8
+CCTV-8	,http://61.52.156.33:808/hls/8/index.m3u8
 	
-CCTV-9	,http://110.72.84.220:808/hls/119/index.m3u8
+CCTV-9	,http://61.52.156.33:808/hls/9/index.m3u8
 	
-CCTV-10	,http://110.72.84.220:808/hls/99/index.m3u8
+CCTV-10	,http://61.52.156.33:808/hls/10/index.m3u8
 	
-CCTV-11	,http://110.72.84.220:808/hls/100/index.m3u8
+CCTV-11	,http://61.52.156.33:808/hls/11/index.m3u8
 	
-CCTV-12	,http://110.72.84.220:808/hls/101/index.m3u8
+CCTV-12	,http://61.52.156.33:808/hls/12/index.m3u8
 	
-CCTV-13	,http://110.72.84.220:808/hls/106/index.m3u8
+CCTV13	,http://61.52.156.33:808/hls/13/index.m3u8
 	
-CCTV-14	,http://110.72.84.220:808/hls/105/index.m3u8
+CCTV14	,http://61.52.156.33:808/hls/14/index.m3u8
 	
-CCTV-15	,http://110.72.84.220:808/hls/102/index.m3u8
+CCTV15	,http://61.52.156.33:808/hls/15/index.m3u8
 	
-测试-TVB剧集/体彩	,http://110.72.84.220:808/hls/57/index.m3u8
+河南卫视	,http://61.52.156.33:808/hls/16/index.m3u8
 	
-测试-TVBJ	,http://110.72.84.220:808/hls/58/index.m3u8
+相声小品	,http://61.52.156.33:808/hls/17/index.m3u8
+	
+都市频道	,http://61.52.156.33:808/hls/18/index.m3u8
+	
+民生频道	,http://61.52.156.33:808/hls/19/index.m3u8
 
 央视,#genre#
 CCTV1,http://aiyun.work.gd/jd.php?id=CCTV1综合
