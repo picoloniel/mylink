@@ -141,6 +141,7 @@ CNN,http://abcnew.site:8880/3ca7123n11/ewfr543ds/3147
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 CNN,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+CNN J,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 France24,http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 France24,http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=static.france24.com/live/F24_EN_LO_HLS/live_web&checkedby:iptvcat.com
 France24,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
