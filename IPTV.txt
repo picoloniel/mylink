@@ -62,8 +62,8 @@ CCTV1-HD,http://183.185.228.219:8083/rtp/226.0.2.153:9136
 CCTV1,http://aiyun.work.gd/jd.php?id=CCTV1综合
 CCTV1,http://182.151.234.91:9900/udp/239.93.0.184:5140
 CCTV2.http://182.151.234.91:9900/udp/239.93.1.23:6000
-CCTV5,http://110.72.64.160:808/hls/38/index.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5,http://123.183.79.179:808/hls/78/index.m3u8
+CCTV5,http://113.101.245.212:9988/udp/239.77.0.170:5146
 CCTV5,http://182.151.234.91:9900/udp/239.93.42.37:5140
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
@@ -73,6 +73,7 @@ CCTV5,http://1.198.26.166:808/hls/5/index.m3u8
 CCTV5,http://27.45.234.161:2024/hls/5/index.m3u8
 CCTV5,http://1.198.26.166:808/hls/5/index.m3u8
 CCTV5,http://49.83.251.217:4022/rtp/239.49.1.5:6000
+CCTV5+,http://113.101.245.212:9988/udp/239.77.0.87:5146
 CCTV5+,http://182.151.234.91:9900/udp/239.93.1.36:8004
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=1635962688
 CCTV13,http://61.170.80.218/liveali-tpgq.cctv.cn/live/cctv13.m3u8
@@ -108,6 +109,7 @@ CCTV13,https://tv.cctv.com/live/cctv13
 CCTV14,https://tv.cctv.com/live/cctvchild
 CCTV15,https://tv.cctv.com/live/cctv15
 CCTV16,https://tv.cctv.com/live/cctv16
+CCTV16,http://113.101.245.212:9988/udp/239.77.0.165:5146
 CCTV17,https://tv.cctv.com/live/cctv17
 CCTV4中文國際歐洲,https://tv.cctv.com/live/cctveurope
 CCTV4中文國際美洲,https://tv.cctv.com/live/cctvamerica
